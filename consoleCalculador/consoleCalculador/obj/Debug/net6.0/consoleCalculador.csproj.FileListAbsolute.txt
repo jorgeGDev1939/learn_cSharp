@@ -1,0 +1,15 @@
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\bin\Debug\net6.0\consoleCalculador.exe
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\bin\Debug\net6.0\consoleCalculador.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\bin\Debug\net6.0\consoleCalculador.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\bin\Debug\net6.0\consoleCalculador.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\bin\Debug\net6.0\consoleCalculador.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\refint\consoleCalculador.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\consoleCalculador.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\consoleCalculador\consoleCalculador\obj\Debug\net6.0\ref\consoleCalculador.dll

@@ -7,7 +7,7 @@ namespace StringExample
         static void Main(String[] args)
         {
             Console.WriteLine("What's your name? Please Write your full name");
-            var fullUserName = Console.ReadLine();
+            string fullUserName = Console.ReadLine();
 
             Console.WriteLine("Hello " + fullUserName + " Welcome to Platzi");
         }

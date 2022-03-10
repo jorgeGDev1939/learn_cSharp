@@ -1,0 +1,15 @@
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\bin\Debug\net6.0\squareArea.exe
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\bin\Debug\net6.0\squareArea.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\bin\Debug\net6.0\squareArea.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\bin\Debug\net6.0\squareArea.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\bin\Debug\net6.0\squareArea.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\refint\squareArea.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\squareArea.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\squareArea\squareArea\obj\Debug\net6.0\ref\squareArea.dll

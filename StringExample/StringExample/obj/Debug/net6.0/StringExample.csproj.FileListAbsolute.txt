@@ -1,0 +1,15 @@
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\bin\Debug\net6.0\StringExample.exe
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\bin\Debug\net6.0\StringExample.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\bin\Debug\net6.0\StringExample.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\bin\Debug\net6.0\StringExample.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\bin\Debug\net6.0\StringExample.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\refint\StringExample.dll
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.pdb
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\StringExample.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Informatica\C# dev\StringExample\StringExample\obj\Debug\net6.0\ref\StringExample.dll
